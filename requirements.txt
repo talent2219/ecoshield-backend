@@ -1,0 +1,6 @@
+flask==3.0.3
+flask-cors==4.0.1
+flask-sqlalchemy==3.1.1
+werkzeug==3.0.3
+pyjwt==2.8.0
+sqlalchemy==2.0.31
